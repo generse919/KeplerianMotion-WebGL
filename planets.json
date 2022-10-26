@@ -1,0 +1,114 @@
+{
+    "planets": [
+        {
+            "name": "Sun",
+            "semi_major_axis": 0,
+            "Eccentricity": 0,
+            "OrbitalPeriod": {
+                "year": 0,
+                "day": 0,
+                "hour": 0
+            }
+        },
+        {
+            "name": "Mercury",
+            "semi_major_axis": 0.3871,
+            "Eccentricity": 0.2056,
+            "OrbitalPeriod": {
+                "year": 0,
+                "day": 87,
+                "hour": 22
+            }
+        },
+        {
+            "name": "Venus",
+            "semi_major_axis": 0.7233,
+            "Eccentricity": 0.0068,
+            "OrbitalPeriod": {
+                "year": 0,
+                "day": 224,
+                "hour": 12
+            }
+        },
+        {
+            "name": "Earth",
+            "semi_major_axis": 1.0,
+            "Eccentricity": 0.01669999,
+            "OrbitalPeriod": {
+                "year": 0,
+                "day": 365,
+                "hour": 6
+            }
+        },
+        {
+            "name": "Mars",
+            "semi_major_axis": 1.5237,
+            "Eccentricity": 0.0934,
+            "OrbitalPeriod": {
+                "year": 1,
+                "day": 321,
+                "hour": 13
+            }
+        },
+        {
+            "name": "Jupiter",
+            "semi_major_axis": 5.2026,
+            "Eccentricity": 0.0485,
+            "OrbitalPeriod": {
+                "year": 11,
+                "day": 314,
+                "hour": 15
+            }
+        },
+        {
+            "name": "Saturn",
+            "semi_major_axis": 9.5388,
+            "Eccentricity": 0.0555,
+            "OrbitalPeriod": {
+                "year": 29,
+                "day": 167,
+                "hour": 13
+            }
+        },
+        {
+            "name": "Uranus",
+            "semi_major_axis": 19.1914,
+            "Eccentricity": 0.0463,
+            "OrbitalPeriod": {
+                "year": 84,
+                "day": 83,
+                "hour": 23
+            }
+        },
+        {
+            "name": "Neptune",
+            "semi_major_axis": 30.0611,
+            "Eccentricity": 0.009,
+            "OrbitalPeriod": {
+                "year": 164,
+                "day": 281,
+                "hour": 19
+            }
+        },
+        {
+            "name": "Pluto",
+            "semi_major_axis": 39.5294,
+            "Eccentricity": 0.25024,
+            "OrbitalPeriod": {
+                "year": 247,
+                "day": 301,
+                "hour": 12
+            }
+        },
+        {
+            "name": "Moon",
+            "semi_major_axis": 68.0499,
+            "Eccentricity": 0.0463,
+            "OrbitalPeriod": {
+                "year": 588,
+                "day": 0,
+                "hour": 0
+            }
+        }
+    ]
+}
